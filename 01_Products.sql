@@ -6,7 +6,7 @@ GO
 
 CREATE TABLE [dbo].[Products](
 	[Id] [uniqueidentifier] NOT NULL,
-	[Name] [nvarchar](50) NOT NULL,
+	[Name] [nvarchar](60) NOT NULL,
 	[Description] [nvarchar](max) NOT NULL,
 	[UnitPrice] [money] NOT NULL,
 	[IsFeatured] [bit] NOT NULL,
