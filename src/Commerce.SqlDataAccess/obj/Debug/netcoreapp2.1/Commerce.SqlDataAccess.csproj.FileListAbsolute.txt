@@ -1,0 +1,13 @@
+C:\Training\DIPPP_source-code\RightECommerce\src\Commerce.SqlDataAccess\bin\Debug\netcoreapp2.1\Commerce.SqlDataAccess.deps.json
+C:\Training\DIPPP_source-code\RightECommerce\src\Commerce.SqlDataAccess\bin\Debug\netcoreapp2.1\Commerce.SqlDataAccess.dll
+C:\Training\DIPPP_source-code\RightECommerce\src\Commerce.SqlDataAccess\bin\Debug\netcoreapp2.1\Commerce.SqlDataAccess.pdb
+C:\Training\DIPPP_source-code\RightECommerce\src\Commerce.SqlDataAccess\bin\Debug\netcoreapp2.1\Commerce.Domain.dll
+C:\Training\DIPPP_source-code\RightECommerce\src\Commerce.SqlDataAccess\bin\Debug\netcoreapp2.1\Commerce.Domain.pdb
+C:\Training\DIPPP_source-code\RightECommerce\src\Commerce.SqlDataAccess\obj\Debug\netcoreapp2.1\Commerce.SqlDataAccess.csproj.AssemblyReference.cache
+C:\Training\DIPPP_source-code\RightECommerce\src\Commerce.SqlDataAccess\obj\Debug\netcoreapp2.1\Commerce.SqlDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\DIPPP_source-code\RightECommerce\src\Commerce.SqlDataAccess\obj\Debug\netcoreapp2.1\Commerce.SqlDataAccess.AssemblyInfoInputs.cache
+C:\Training\DIPPP_source-code\RightECommerce\src\Commerce.SqlDataAccess\obj\Debug\netcoreapp2.1\Commerce.SqlDataAccess.AssemblyInfo.cs
+C:\Training\DIPPP_source-code\RightECommerce\src\Commerce.SqlDataAccess\obj\Debug\netcoreapp2.1\Commerce.SqlDataAccess.csproj.CoreCompileInputs.cache
+C:\Training\DIPPP_source-code\RightECommerce\src\Commerce.SqlDataAccess\obj\Debug\netcoreapp2.1\Commerce.SqlDataAccess.csproj.CopyComplete
+C:\Training\DIPPP_source-code\RightECommerce\src\Commerce.SqlDataAccess\obj\Debug\netcoreapp2.1\Commerce.SqlDataAccess.dll
+C:\Training\DIPPP_source-code\RightECommerce\src\Commerce.SqlDataAccess\obj\Debug\netcoreapp2.1\Commerce.SqlDataAccess.pdb

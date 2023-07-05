@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Ploeh.Samples.Commerce.Domain
+build_property.ProjectDir = C:\Training\DIPPP_source-code\RightECommerce\src\Commerce.Domain\

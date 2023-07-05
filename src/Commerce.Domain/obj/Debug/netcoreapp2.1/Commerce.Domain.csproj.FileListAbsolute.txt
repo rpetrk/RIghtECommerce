@@ -1,0 +1,10 @@
+C:\Training\DIPPP_source-code\RightECommerce\src\Commerce.Domain\bin\Debug\netcoreapp2.1\Commerce.Domain.deps.json
+C:\Training\DIPPP_source-code\RightECommerce\src\Commerce.Domain\bin\Debug\netcoreapp2.1\Commerce.Domain.dll
+C:\Training\DIPPP_source-code\RightECommerce\src\Commerce.Domain\bin\Debug\netcoreapp2.1\Commerce.Domain.pdb
+C:\Training\DIPPP_source-code\RightECommerce\src\Commerce.Domain\obj\Debug\netcoreapp2.1\Commerce.Domain.csproj.AssemblyReference.cache
+C:\Training\DIPPP_source-code\RightECommerce\src\Commerce.Domain\obj\Debug\netcoreapp2.1\Commerce.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\DIPPP_source-code\RightECommerce\src\Commerce.Domain\obj\Debug\netcoreapp2.1\Commerce.Domain.AssemblyInfoInputs.cache
+C:\Training\DIPPP_source-code\RightECommerce\src\Commerce.Domain\obj\Debug\netcoreapp2.1\Commerce.Domain.AssemblyInfo.cs
+C:\Training\DIPPP_source-code\RightECommerce\src\Commerce.Domain\obj\Debug\netcoreapp2.1\Commerce.Domain.csproj.CoreCompileInputs.cache
+C:\Training\DIPPP_source-code\RightECommerce\src\Commerce.Domain\obj\Debug\netcoreapp2.1\Commerce.Domain.dll
+C:\Training\DIPPP_source-code\RightECommerce\src\Commerce.Domain\obj\Debug\netcoreapp2.1\Commerce.Domain.pdb
